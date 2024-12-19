@@ -67,6 +67,16 @@ Solarlytics is a data science project designed to predict solar power generation
 The project includes various visualizations to display trends, power generation patterns, and model evaluation metrics, helping to understand solar power production dynamics.
 
 ## ⚙️ **Environment Setup**
-To set up the environment, use the following command to install the required dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost tensorflow scipy
+- To set up the environment, use the following command to install the required dependencies:
+    ```bash
+      pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost tensorflow scipy
+              
+                                                                                                                                                                                     
+## 🧑‍💻 **Running the Code**
+
+To run the code, follow these steps:
+
+1. **Clone the repository** and navigate to the project folder.
+2. **Install the required libraries** by running:
+   ```bash
+   pip install -r requirements.txt
