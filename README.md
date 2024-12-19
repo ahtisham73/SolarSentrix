@@ -15,27 +15,39 @@ Solarlytics is a data science project designed to predict solar power generation
 
 ## 🛠️ **Libraries Used**
 ### Data Manipulation
-- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) [Pandas](https://pandas.pydata.org/)
-- ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [NumPy](https://numpy.org/)
+- <p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a>
+</p>
 
 ### Date & Time
-- ![Datetime](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [datetime](https://docs.python.org/3/library/datetime.html)
+- <p align="left">
+  <a href="https://docs.python.org/3/library/datetime.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="datetime" width="25" height="25"/> </a>
+</p>
 
 ### Statistics
-- ![SciPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg) [SciPy](https://scipy.org/)
+- <p align="left">
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="25" height="25"/> </a>
+</p>
 
 ### Visualization
-- ![Matplotlib](https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg) [Matplotlib](https://matplotlib.org/)
-- ![Seaborn](https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg) [Seaborn](https://seaborn.pydata.org/)
-- ![Plotly](https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg) [Plotly](https://plotly.com/)
+- <p align="left">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="25" height="25"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="25" height="25"/> </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="25" height="25"/> </a>
+</p>
 
 ### Machine Learning Models
-- ![Scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg) [Scikit-learn](https://scikit-learn.org/)
-- ![XGBoost](https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg) [XGBoost](https://xgboost.readthedocs.io/)
-- ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) [TensorFlow](https://www.tensorflow.org/)
+- <p align="left">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="25" height="25"/> </a>
+  <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg" alt="xgboost" width="25" height="25"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="25" height="25"/> </a>
+</p>
 
 ### Preprocessing
-- ![StandardScaler](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg) [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+- <p align="left">
+  <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="25" height="25"/> </a>
+</p>
 
 ## 🔄 **Steps Followed**
 1. **Data Preprocessing**:
@@ -51,10 +63,10 @@ Solarlytics is a data science project designed to predict solar power generation
    - Implemented **Linear Regression**, **Random Forest Regressor**, and **XGBoost**.
    - Applied hyperparameter tuning for enhanced model performance.
 
-## 💻 **Running the Code**
-To run the project, clone the repository and execute the following steps:
-1. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost tensorflow scipy
+## 📈 **Visualization**
+The project includes various visualizations to display trends, power generation patterns, and model evaluation metrics, helping to understand solar power production dynamics.
 
-   
+## ⚙️ **Environment Setup**
+To set up the environment, use the following command to install the required dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost tensorflow scipy
