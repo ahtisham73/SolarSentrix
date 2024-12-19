@@ -15,39 +15,27 @@ Solarlytics is a data science project designed to predict solar power generation
 
 ## 🛠️ **Libraries Used**
 ### Data Manipulation
-- <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a>
-</p>
+- pandas
+- numpy
 
 ### Date & Time
-- <p align="left">
-  <a href="https://docs.python.org/3/library/datetime.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="datetime" width="25" height="25"/> </a>
-</p>
+- datetime
 
 ### Statistics
-- <p align="left">
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="25" height="25"/> </a>
-</p>
+- scipy
 
 ### Visualization
-- <p align="left">
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="25" height="25"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="25" height="25"/> </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="25" height="25"/> </a>
-</p>
+- matplotlib
+- seaborn
+- plotly
 
 ### Machine Learning Models
-- <p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="25" height="25"/> </a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg" alt="xgboost" width="25" height="25"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="25" height="25"/> </a>
-</p>
+- scikit-learn
+- xgboost
+- tensorflow
 
 ### Preprocessing
-- <p align="left">
-  <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="25" height="25"/> </a>
-</p>
+- scikit-learn
 
 ## 🔄 **Steps Followed**
 1. **Data Preprocessing**:
@@ -70,8 +58,8 @@ The project includes various visualizations to display trends, power generation 
 - To set up the environment, use the following command to install the required dependencies:
     ```bash
       pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost tensorflow scipy
-              
-                                                                                                                                                                                     
+    ```
+
 ## 🧑‍💻 **Running the Code**
 
 To run the code, follow these steps:
