@@ -1,4 +1,4 @@
-# SolarSentrix: Solar Fault Detection, Analysis and Forecasting
+# 🌞⚡SolarSentrix: Solar Fault Detection, Analysis and Forecasting
 
 ## 📘 **Project Overview**
 This project focuses on predicting solar power generation by analyzing data from solar power plants. Using machine learning techniques, it builds a robust pipeline for forecasting solar energy yield and detecting technical faults. The analysis leverages datasets including power generation and weather data, with models such as Linear Regression, Random Forest, and XGBoost evaluated for accuracy. The goal is to optimize energy grid management and reduce wastage by improving the reliability and efficiency of solar power predictions.
