@@ -1,7 +1,7 @@
 # SolarSentrix: Solar Fault Detection, Analysis and Forecasting
 
 ## 📘 **Project Overview**
-Solarlytics is a data science project designed to predict solar power generation using machine learning models. The project analyzes solar generation and weather data from multiple plants to optimize energy yield prediction, enabling better grid management and energy distribution.
+This project focuses on predicting solar power generation by analyzing data from solar power plants. Using machine learning techniques, it builds a robust pipeline for forecasting solar energy yield and detecting technical faults. The analysis leverages datasets including power generation and weather data, with models such as Linear Regression, Random Forest, and XGBoost evaluated for accuracy. The goal is to optimize energy grid management and reduce wastage by improving the reliability and efficiency of solar power predictions.
 
 ## 📂 **Datasets Used**
 1. **Plant_1_Generation_Data.csv** - Solar power generation data from Plant 1.
@@ -14,27 +14,16 @@ Solarlytics is a data science project designed to predict solar power generation
 - **Solarlytics.ipynb** - Main Jupyter notebook for data preprocessing, model training, and analysis.
 
 ## 🛠️ **Libraries Used**
-### Data Manipulation
 - pandas
 - numpy
-
-### Date & Time
 - datetime
-
-### Statistics
 - scipy
-
-### Visualization
 - matplotlib
 - seaborn
 - plotly
-
-### Machine Learning Models
 - scikit-learn
 - xgboost
 - tensorflow
-
-### Preprocessing
 - scikit-learn
 
 ## 🔄 **Steps Followed**
