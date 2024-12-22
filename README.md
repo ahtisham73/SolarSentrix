@@ -1,4 +1,4 @@
-# Solarlytics: Solar Power Generation Forecasting
+# SolarSentrix: Solar Fault Detection, Analysis and Forecasting
 
 ## 📘 **Project Overview**
 Solarlytics is a data science project designed to predict solar power generation using machine learning models. The project analyzes solar generation and weather data from multiple plants to optimize energy yield prediction, enabling better grid management and energy distribution.
